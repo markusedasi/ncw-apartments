@@ -1,0 +1,12 @@
+.idea/
+
+.DS_Store
+Thumbs.db
+
+node_modules/
+
+# Logs
+*.log
+
+dist/
+build/
