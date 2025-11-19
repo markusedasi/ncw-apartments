@@ -1,18 +1,14 @@
 {
   "30": {
     "title": "Apartment 30",
-    "description": "",
-    "amenities": [
-    ],
-    "images": [
-    ]
+    "description": "Cozy 2-bedroom apartment in the city center.",
+    "amenities": ["WiFi", "Air Conditioning", "Balcony"],
+    "images": ["assets/images/apt30-1.jpg", "assets/images/apt30-2.jpg"]
   },
   "31": {
     "title": "Apartment 31",
-    "description": "",
-    "amenities": [
-    ],
-    "images": [
-    ]
+    "description": "Spacious 3-bedroom apartment with great view.",
+    "amenities": ["WiFi", "Parking", "Pet Friendly"],
+    "images": ["assets/images/apt31-1.jpg", "assets/images/apt31-2.jpg"]
   }
 }
